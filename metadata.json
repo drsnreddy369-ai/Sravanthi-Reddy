@@ -1,0 +1,7 @@
+{
+  "name": "Aura Clinical & Health Intelligence",
+  "description": "Intelligent clinical assistant for summarizing doctor-patient notes, drafting appointment follow-up emails, organizing scheduling queues, and HIPAA-compliant health, diet, and calorie tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
